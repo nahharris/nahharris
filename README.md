@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Hannah Harrisonn, a Brazilian BSC in Computer Science from the [University of São Paulo](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo) currently working as a Cloud Infrastructure Engineer.
+I'm Hannah Harrisonn, a Brazilian BSc in Computer Science from the [University of São Paulo](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo) currently working as a Cloud Infrastructure Engineer.
 
 Huge fan of Rust, Python, Kotlin, and Golang (in that order) that never had the time to work on big personal projects due to school but invested a lot of time learning Linux, networking, containers, and AI tools for development.
 

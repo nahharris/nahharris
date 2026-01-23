@@ -11,7 +11,7 @@ In this repo you'll likely locate a bunch of unfinished toy projects that might 
 [![email](https://img.shields.io/badge/hannah%40harrisonn.dev-D14836)](mailto:hannah@harrisonn.dev)
 
 [![harrisonn.dev](https://img.shields.io/badge/harrisonn.dev-8A2BE2)](https://harrisonn.dev)
-[![mastodon](https://img.shields.io/badge/mastodon.social/@nahharris-6364FF)](https://mastodon.social/@nahharris)
+[![<a rel="me" href="https://mastodon.social/@nahharris">Mastodon</a>](https://img.shields.io/badge/mastodon.social/@nahharris-6364FF)](https://mastodon.social/@nahharris)
 
 
 # 💻 Tech Stack:

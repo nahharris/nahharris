@@ -3,7 +3,7 @@ I'm Hannah Harrisonn, a Brazilian BSc in Computer Science from the [University o
 
 Huge fan of Rust, Python, Kotlin, and Golang (in that order) that never had the time to work on big personal projects due to school but invested a lot of time learning Linux, networking, containers, and AI tools for development.
 
-In this repo you'll likely locate a bunch of unfinished toy projects that might showcase what kind of stuff I'm interested in, feel free to email me at <hannah@harrisonn.dev> or reach me on <a rel="me" href="https://mastodon.social/@nahharris">Mastodon (@nahharris)</a>
+In this repo you'll likely locate a bunch of unfinished toy projects that might showcase what kind of stuff I'm interested in, feel free to email me at <hannah@harrisonn.dev>
 
 ## 🌐 Socials:
 

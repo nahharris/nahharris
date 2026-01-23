@@ -3,7 +3,7 @@ I'm Hannah Harrisonn, a Brazilian BSc in Computer Science from the [University o
 
 Huge fan of Rust, Python, Kotlin, and Golang (in that order) that never had the time to work on big personal projects due to school but invested a lot of time learning Linux, networking, containers, and AI tools for development.
 
-In this repo you'll likely locate a bunch of unfinished toy projects that might showcase what kind of stuff I'm interested in, feel free to email me at <hannah@harrisonn.dev>
+In this repo you'll likely locate a bunch of unfinished toy projects that might showcase what kind of stuff I'm interested in, feel free to email me at <hannah@harrisonn.dev> or reach me on <a rel="me" href="https://mastodon.social/@nahharris">Mastodon (@nahharris)</a>
 
 ## 🌐 Socials:
 
@@ -11,8 +11,7 @@ In this repo you'll likely locate a bunch of unfinished toy projects that might 
 [![email](https://img.shields.io/badge/hannah%40harrisonn.dev-D14836)](mailto:hannah@harrisonn.dev)
 
 [![harrisonn.dev](https://img.shields.io/badge/harrisonn.dev-8A2BE2)](https://harrisonn.dev)
-[![<a rel="me" href="https://mastodon.social/@nahharris">Mastodon</a>](https://img.shields.io/badge/mastodon.social/@nahharris-6364FF)](https://mastodon.social/@nahharris)
-
+[![mastodon](https://img.shields.io/badge/mastodon.social%2F@nahharris-6364FF)](https://mastodon.social/@nahharris)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) 
